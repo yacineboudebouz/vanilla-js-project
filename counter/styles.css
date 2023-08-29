@@ -97,6 +97,10 @@ h4 {
     font-family: var(--ff-primary);
 }
 
+span {
+    transition: 1s;
+}
+
 h1 {
     font-size: 3rem;
 }
